@@ -60,7 +60,7 @@ issued, this module can be used to authenticate tokens as described above.
 
 ## Examples
 
-For a complete, working example, refer to the [Token example](https://github.com/jaredhanson/passport-http-bearer/tree/master/examples/bearer).
+For a complete, working example, refer to the [Token example](https://github.com/duythinht/passport-token-auth/tree/master/examples/token).
 
 ## Related Modules
 
@@ -79,4 +79,4 @@ For a complete, working example, refer to the [Token example](https://github.com
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2014 duythinht <[http://pi-team.io/](http://pi-team.io/)>
+Copyright (c) 2014 duythinht <[http://pi-team.io/](http://pi-team.io)>
