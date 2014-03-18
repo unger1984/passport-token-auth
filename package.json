@@ -1,6 +1,6 @@
 {
   "name": "passport-token-auth",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "HTTP Token authentication strategy for Passport.",
   "keywords": [
     "passport",
