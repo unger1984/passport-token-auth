@@ -1,6 +1,6 @@
 {
   "name": "passport-token-auth",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "HTTP Token authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -16,15 +16,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/duythinht/passport-token-auth.git"
+    "url": "https://github.com/cobaltsys/passport-token-auth.git"
   },
   "bugs": {
-    "url": "https://github.com/duythinht/passport-token-auth/issues"
+    "url": "hhttps://github.com/cobaltsys/passport-token-auth/issues"
   },
   "author": {
-    "name": "Thinh Tran Duy",
-    "email": "duythinht@gmail.com",
-    "url": "http://www.pi-team.io/"
+    "name": "AlexWiseman",
+    "email": "unger1984@gmail.com"
   },
   "licenses": [
     {
